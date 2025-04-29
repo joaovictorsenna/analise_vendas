@@ -16,5 +16,5 @@ Este projeto realiza a análise de dados de uma planilha de vendas e gera dois g
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analise_vendas.git
+   git clone https://github.com/joaovictorsenna/analise_vendas
    cd analise_vendas
